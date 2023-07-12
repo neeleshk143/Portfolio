@@ -223,7 +223,7 @@ function App() {
         </li>
       </ul>
 
-      <a href="#stats" className="scroll-down">Scroll</a>
+      {/* <a href="#stats" className="scroll-down">Scroll</a> */}
     </section>
 
     <section className="stats" id="stats">
